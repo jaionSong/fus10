@@ -1,9 +1,7 @@
 # UX UI Design School 10th
 ## UX UI Design School 10th
-### UX UI Design School 10th
-#### UX UI Design School 10th
-##### UX UI Design School 10th
-###### UX UI Design School 10th
+
+
 
 <!-- p tag = default  -->
 모든 국민은 인간다운 생활을 할 권리를 가진다. 정기회의 회기는 100일을, 임시회의 회기는 30일을 초과할 수 없다. 국회가 재적의원 과반수의 찬성으로 계엄의 해제를 요구한 때에는 대통령은 이를 해제하여야 한다. 군인은 현역을 면한 후가 아니면 국무위원으로 임명될 수 없다. 모든 국민은 자기의 행위가 아닌 친족의 행위로 인하여 불이익한 처우를 받지 아니한다.
